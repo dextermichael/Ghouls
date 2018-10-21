@@ -1,0 +1,35 @@
+
+
+.center{
+
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+
+
+
+}
+
+
+
+.LB{
+    display: flex;
+    justify-content: center;
+    padding: 130px;
+    /* align-items: center; */
+
+    /* padding:100px 30px; */
+    
+}
+
+
+
+
+
+
+
+
+
